@@ -1,0 +1,133 @@
+Array
+(
+    [0] => Array
+        (
+            [soal_id] => 1
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 1
+            [soal_jenis] => checkbox
+            [soal_nama] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+        )
+
+    [1] => Array
+        (
+            [soal_id] => 2
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 2
+            [soal_jenis] => checkbox
+            [soal_nama] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+        )
+
+    [2] => Array
+        (
+            [soal_id] => 3
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 3
+            [soal_jenis] => checkbox
+            [soal_nama] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+        )
+
+    [3] => Array
+        (
+            [soal_id] => 7
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 0
+            [soal_jenis] => checkbox
+            [soal_nama] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+        )
+
+    [4] => Array
+        (
+            [soal_id] => 8
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 5
+            [soal_jenis] => checkbox
+            [soal_nama] => Metode pembelajaran di polinema apakah sudah efektif?
+        )
+
+    [5] => Array
+        (
+            [soal_id] => 13
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 5
+            [soal_jenis] => 
+            [soal_nama] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+        )
+
+    [6] => Array
+        (
+            [soal_id] => 14
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 7
+            [soal_jenis] => checkbox
+            [soal_nama] => apakah pengajaran sudah tepat?
+        )
+
+    [7] => Array
+        (
+            [soal_id] => 15
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 7
+            [soal_jenis] => checkbox
+            [soal_nama] => apakah pengajaran sudah tepat?
+        )
+
+    [8] => Array
+        (
+            [soal_id] => 16
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 8
+            [soal_jenis] => checkbox
+            [soal_nama] => apa sudah bisa?
+        )
+
+    [9] => Array
+        (
+            [soal_id] => 17
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 9
+            [soal_jenis] => checkbox
+            [soal_nama] => kenapa harus kuliah?
+        )
+
+    [10] => Array
+        (
+            [soal_id] => 18
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 9
+            [soal_jenis] => checkbox
+            [soal_nama] => kenapa kita harus mengikuti kurikulum di industri?
+        )
+
+    [11] => Array
+        (
+            [soal_id] => 19
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 13
+            [soal_jenis] => checkbox
+            [soal_nama] => jurusan teknologi informasi apakah sudah efektif untuk kita?
+        )
+
+    [12] => Array
+        (
+            [soal_id] => 20
+            [survey_id] => 1
+            [kategori_id] => 1
+            [no_urut] => 14
+            [soal_jenis] => checkbox
+            [soal_nama] => halooo
+        )
+
+)

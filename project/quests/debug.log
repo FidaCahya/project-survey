@@ -1,0 +1,435 @@
+Array
+(
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus
+        )
+
+    [submit_edit_soal] => 
+)
+Array
+(
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+        )
+
+    [submit_edit_soal] => 
+)
+Array
+(
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+        )
+
+    [submit_edit_soal] => 
+)
+Array
+(
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+            [14] => 14
+            [15] => 15
+            [16] => 16
+            [17] => 17
+            [18] => 18
+            [19] => 19
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+            [14] => apakah pengajaran sudah tepat?
+            [15] => apakah pengajaran sudah tepat?
+            [16] => apa sudah bisa?
+            [17] => kenapa harus kuliah?
+            [18] => kenapa harus kuliah?
+            [19] => tttttuiopp
+        )
+
+    [submit_edit_soal] => 
+)
+Array
+(
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+            [14] => 14
+            [15] => 15
+            [16] => 16
+            [17] => 17
+            [18] => 18
+            [19] => 19
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+            [14] => apakah pengajaran sudah tepat?
+            [15] => apakah pengajaran sudah tepat?
+            [16] => apa sudah bisa?
+            [17] => kenapa harus kuliah?
+            [18] => kenapa harus kuliah?
+            [19] => tttttuiopp
+        )
+
+    [submit_edit_soal] => 
+)
+Array
+(
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+            [14] => 14
+            [15] => 15
+            [16] => 16
+            [17] => 17
+            [18] => 18
+            [19] => 19
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+            [14] => apakah pengajaran sudah tepat?
+            [15] => apakah pengajaran sudah tepat?
+            [16] => apa sudah bisa?
+            [17] => kenapa harus kuliah?
+            [18] => kenapa harus kuliah?
+            [19] => jurusan apakah sudah efektif?
+        )
+
+    [submit_edit_soal] => 
+)
+Array
+(
+    [dst] => pendidikan
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+            [14] => 14
+            [15] => 15
+            [16] => 16
+            [17] => 17
+            [18] => 18
+            [19] => 19
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+            [14] => apakah pengajaran sudah tepat?
+            [15] => apakah pengajaran sudah tepat?
+            [16] => apa sudah bisa?
+            [17] => kenapa harus kuliah?
+            [18] => kenapa harus kuliah?
+            [19] => jurusan apakah sudah efektif?
+        )
+
+    [submit_edit_soal] => 
+)
+Array
+(
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+            [14] => 14
+            [15] => 15
+            [16] => 16
+            [17] => 17
+            [18] => 18
+            [19] => 19
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+            [14] => apakah pengajaran sudah tepat?
+            [15] => apakah pengajaran sudah tepat?
+            [16] => apa sudah bisa?
+            [17] => kenapa harus kuliah?
+            [18] => kenapa kita harus mengikuti kurikulum di industri?
+            [19] => jurusan apakah sudah efektif?
+        )
+
+    [submit_edit_soal] => 
+)
+Array
+(
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+            [14] => 14
+            [15] => 15
+            [16] => 16
+            [17] => 17
+            [18] => 18
+            [19] => 19
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+            [14] => apakah pengajaran sudah tepat?
+            [15] => apakah pengajaran sudah tepat?
+            [16] => apa sudah bisa?
+            [17] => kenapa harus kuliah?
+            [18] => kenapa kita harus mengikuti kurikulum di industri?
+            [19] => jurusan apakah sudah efektif?
+        )
+
+    [submit_edit_soal] => 
+)
+Array
+(
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+            [14] => 14
+            [15] => 15
+            [16] => 16
+            [17] => 17
+            [18] => 18
+            [19] => 19
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+            [14] => apakah pengajaran sudah tepat?
+            [15] => apakah pengajaran sudah tepat?
+            [16] => apa sudah bisa?
+            [17] => kenapa harus kuliah?
+            [18] => kenapa kita harus mengikuti kurikulum di industri?
+            [19] => jurusan teknologi informasi apakah sudah efektif?
+        )
+
+    [submit_edit_soal] => 
+)
+Array
+(
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+            [14] => 14
+            [15] => 15
+            [16] => 16
+            [17] => 17
+            [18] => 18
+            [19] => 19
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+            [14] => apakah pengajaran sudah tepat?
+            [15] => apakah pengajaran sudah tepat?
+            [16] => apa sudah bisa?
+            [17] => kenapa harus kuliah?
+            [18] => kenapa kita harus mengikuti kurikulum di industri?
+            [19] => jurusan teknologi informasi apakah sudah efektif?
+        )
+
+    [submit_edit_soal] => 
+)
+Array
+(
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+            [14] => 14
+            [15] => 15
+            [16] => 16
+            [17] => 17
+            [18] => 18
+            [19] => 19
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+            [14] => apakah pengajaran sudah tepat?
+            [15] => apakah pengajaran sudah tepat?
+            [16] => apa sudah bisa?
+            [17] => kenapa harus kuliah?
+            [18] => kenapa kita harus mengikuti kurikulum di industri?
+            [19] => jurusan teknologi informasi apakah sudah efektif untuk kita?
+        )
+
+    [submit_edit_soal] => 
+)
+Array
+(
+    [nomor_soal] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+            [7] => 7
+            [8] => 8
+            [13] => 13
+            [14] => 14
+            [15] => 15
+            [16] => 16
+            [17] => 17
+            [18] => 18
+            [19] => 19
+            [20] => 20
+        )
+
+    [soal] => Array
+        (
+            [1] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [2] => Seberapa baik Anda merasa Polinema mempersiapkan Anda untuk karir di masa depan?
+            [3] => Seberapa relevan materi yang diajarkan dalam perkuliahan dengan kebutuhan industri saat ini?
+            [7] => Bagaimana penilaian anda terhadap kualitas pengajaran di Polinema?
+            [8] => Metode pembelajaran di polinema apakah sudah efektif?
+            [13] => Apakah pendidikan di polinema sudah bagus untk diterapkan?
+            [14] => apakah pengajaran sudah tepat?
+            [15] => apakah pengajaran sudah tepat?
+            [16] => apa sudah bisa?
+            [17] => kenapa harus kuliah?
+            [18] => kenapa kita harus mengikuti kurikulum di industri?
+            [19] => jurusan teknologi informasi apakah sudah efektif untuk kita?
+            [20] => halooo
+        )
+
+    [submit_edit_soal] => 
+)
